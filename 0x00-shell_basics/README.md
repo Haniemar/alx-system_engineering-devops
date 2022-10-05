@@ -1,1 +1,1 @@
-display hiden files command
+display digitsonly command
