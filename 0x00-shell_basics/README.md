@@ -1,1 +1,1 @@
-display contents of current directory
+command to go home
