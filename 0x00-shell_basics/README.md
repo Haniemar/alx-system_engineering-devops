@@ -1,1 +1,1 @@
-long listing command
+display hiden files command
