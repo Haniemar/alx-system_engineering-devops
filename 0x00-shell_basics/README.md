@@ -1,1 +1,1 @@
-display digitsonly command
+using script to create directory
