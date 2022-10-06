@@ -1,1 +1,1 @@
-command to print user
+who am i
